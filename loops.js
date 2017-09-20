@@ -6,6 +6,7 @@ functionm forLoop(array){
       console.log(`I am ${i} strange loops.`)
     }
   }
+  return array
 }
 
 fuunction whileLoop(n) {
@@ -14,7 +15,7 @@ fuunction whileLoop(n) {
     console.log(n)
     n--
   }
-
+  return "done"
 
 }
 
