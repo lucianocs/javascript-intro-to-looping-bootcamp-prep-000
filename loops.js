@@ -8,8 +8,8 @@ function forLoop(array){
     } else {
       console.log(`I am ${i} strange loops.`)
     }
-  }
-  return array*/
+  }*/
+  return array
 }
 
 
@@ -20,8 +20,8 @@ function whileLoop(n) {
   while (n > 0) {
     console.log(n)
     n--
-  }
-  return "done"*/
+  }*/
+  return "done"
 
 }
 
@@ -35,7 +35,7 @@ function doWhileLoop(array){
 
   do {
     array.pop()
-  } while ( array.length > 0 or maybeTrue()  );
+  } while ( array.length > 0 or maybeTrue()  );*/
   return array
-*/
+
 }
